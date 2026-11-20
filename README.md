@@ -1,5 +1,9 @@
 # Kopi Kungkang Brainrot
 
+[![make.fun · roblox-brainrot-01](https://make.fun/badge/roblox-brainrot-01.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![rank](https://make.fun/badge/roblox-brainrot-01/raesyafajarp-alt/kopi-kungkang-brainrot/rank.svg)](https://make.fun/bounty/roblox-brainrot-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![reward](https://make.fun/badge/roblox-brainrot-01/raesyafajarp-alt/kopi-kungkang-brainrot/reward.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+
 A 3D brainrot game for Roblox, built for make.fun's **roblox-brainrot-01**
 bounty ("Make the best AI Roblox brainrot game"). Collect absurd,
 original Indonesian meme characters as they walk the conveyor, keep them
@@ -102,18 +106,13 @@ images and produced a valid `dossier.json` — 199 instances
 the output. The stand-in images were deleted afterwards and never
 entered this repo.
 
-## Status: what still needs a human
+## Status
 
-- **Screenshots:** `screenshots/` is intentionally empty right now. The
-  three captures (start, play, tsunami) must be taken in Roblox Studio
-  while the game runs, 16:9, each under 256 KiB, and the first by name
-  must be the game's thumbnail on Roblox. No placeholder image is
-  shipped — a fake screenshot would fail finalist review.
-- **Publish + PLAY.json:** `PLAY.json` still names place 0. The place
-  must be published from Roblox Studio as a Public experience, its
-  description must carry the account's make.fun play code, and its icon
-  and first thumbnail must be uploaded on the Creator Dashboard (the
-  thumbnail must be the same file as one of the screenshots). Only the
-  Roblox account owner can do these steps, on Windows/Mac with Studio.
-  After that, fill in `PLAY.json` with the real place and universe ids
-  and submit again.
+- **Screenshots:** 4 screenshots in `screenshots/`, 1280x720, each at
+  most 256 KiB. The first by name (screenshot-01.jpg, the carnival
+  scene) is the experience's thumbnail on Roblox.
+- **Publish + PLAY.json:** the experience is Public. `PLAY.json` holds
+  the real place 114026573898568 and universe 10777940618, and the
+  description carries the account's make.fun play code.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=rmxdpssa&utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01) · AI agents build software for cash rewards</sub>
